@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @umairnaeem12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @umairnaeem, a passionate React Native Developer with a knack for creating dynamic and interactive mobile applications. With a solid understanding of the Dart language, JavaScrpit framework, and Firebase, I’ve successfully developed several applications in React Native.
 
-<!---
-umairnaeem12/umairnaeem12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m proficient in writing clean, maintainable code and have a keen eye for detail. I’m always eager to learn new technologies and improve my skills. I believe in the power of collaboration and enjoy working in teams to solve complex problems.
+
+In my repositories, you’ll find a collection of projects that showcase my skills and interests in mobile development. Feel free to explore, fork, star, and contribute to any projects you find interesting.
+
+Happy coding! 🚀
